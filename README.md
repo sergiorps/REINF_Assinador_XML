@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/sergiorps/REINF_Assinador_XML/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Este repositório hospeda um aplicação escrita em C# utilizando Windows Form que assina arquivos XML dos eventos do REINF para posterior envio para a Receita Federal do Brasil.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository hosts an application written in C # using Windows Form that subscribes XML files of REINF events for later submission to the Brazilian Tax Authorities.
 
 ### Markdown
 
